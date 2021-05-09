@@ -1,0 +1,5 @@
+* Notes
+** Note that xkbcommon keymap creation changed upstream in v0.13.0.
+   We should keep this in mind.
+   - Patches upstream (to ocaml-xkbcommon) may be required
+   <2021-05-09 Sun>
