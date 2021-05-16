@@ -10,7 +10,7 @@ CLOCK: [2021-05-16 Sun 15:18]--[2021-05-16 Sun 16:56] =>  1:38
 :END:
 ** TODO [2021-05-16 Sun 14:29] Finish output_frame
    [[file:./tinywl/tinywl.ml::failwith "output_frame"]]
-** TODO [2021-05-16 Sun 14:30] Finish server_cursor_motion_absolute
+** DONE [2021-05-16 Sun 14:30] Finish server_cursor_motion_absolute
    [[file:./tinywl/tinywl.ml::failwith "server_cursor_motion_absolute"]]
 ** TODO [2021-05-16 Sun 14:31] Finish server_cursor_button
    [[file:./tinywl/tinywl.ml::let server_cursor_button _st _ _ =]]

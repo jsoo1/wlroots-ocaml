@@ -246,7 +246,6 @@ let server_cursor_motion_absolute st _ (evt: Event_pointer_motion_absolute.t) =
     (Event_pointer_motion_absolute.y evt);
   process_cursor_motion st (Event_pointer_motion_absolute.time_msec evt)
 
-
 let server_cursor_button _st _ _ =
   failwith "server_cursor_button"
 
