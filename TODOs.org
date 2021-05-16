@@ -3,3 +3,8 @@
    We should keep this in mind.
    - Patches upstream (to ocaml-xkbcommon) may be required
    <2021-05-09 Sun>
+* Todos
+** DONE [2021-05-16 Sun 15:14] Finish prcoess_cursor_motion
+:LOGBOOK:
+CLOCK: [2021-05-16 Sun 15:18]--[2021-05-16 Sun 16:56] =>  1:38
+:END:
