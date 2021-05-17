@@ -16,7 +16,7 @@ CLOCK: [2021-05-16 Sun 15:18]--[2021-05-16 Sun 16:56] =>  1:38
    [[file:./tinywl/tinywl.ml::let server_cursor_button _st _ _ =]]
 ** DONE [2021-05-16 Sun 14:31] Finish server_cursor_axis
    [[file:./tinywl/tinywl.ml::let server_cursor_axis _st _ _ =]]
-** TODO [2021-05-16 Sun 14:31] Finish server_cursor_frame
+** DONE [2021-05-16 Sun 14:31] Finish server_cursor_frame
    [[file:./tinywl/tinywl.ml::let server_cursor_frame _st _ _ =]]
 ** TODO [2021-05-16 Sun 18:28] Make sure our fixme comment is fixed here
    [[file:./tinywl/tinywl.ml::(* Might need to make mapped true in this guy *)]]
