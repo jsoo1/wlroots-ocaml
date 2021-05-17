@@ -6,7 +6,7 @@
   (libraries wlroots_types_f
              wlroots_config wlroots_common
              ctypes ctypes.stubs
-             unix-time.unix mtime.clock.os
+             posix-time2 mtime.clock.os
              xkbcommon))
 
 (executables

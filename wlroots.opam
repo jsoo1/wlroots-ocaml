@@ -6,10 +6,10 @@ bug-reports: "https://github.com/swaywm/wlroots-ocaml/issues"
 depends: [
   "ocaml" {>= "4.04.1"}
   "xkbcommon"
-  "ctypes"
+  "ctypes" {< "0.18.0"}
   "ctypes-foreign"
   "dune"
-  "unix-time"
+  "posix-time2"
   "mtime"
   "base" { build }
   "stdio" { build }
